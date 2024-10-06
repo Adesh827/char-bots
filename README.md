@@ -1,2 +1,2 @@
 # char-bots
-This is for create chat bot
+This is for create chat bot.
